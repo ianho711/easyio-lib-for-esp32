@@ -1,4 +1,4 @@
-# 50_SNTP_DeepSleep
+# 51_WIFI_Scan
 
 ## 一、例程简介
 
